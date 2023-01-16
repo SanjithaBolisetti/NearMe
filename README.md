@@ -14,8 +14,9 @@ write the needed HTML code.
 
 ### Step 4:
 Run the Django server and execute the HTML files.
+
 ## Code:
-'''
+```
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -156,7 +157,7 @@ Mahalakshmi Multispeciality Hospital, is one of the best, cost-effective modern 
 </p>
 </body>
 </html>
-'''
+```
 
 ## Output:
 ![Output](./screenshots/out1.png)
@@ -168,5 +169,6 @@ Mahalakshmi Multispeciality Hospital, is one of the best, cost-effective modern 
 
 ## HTML Validator
 ![HTML Validator](./screenshots/valid.png)
+
 ## Result:
 The program for implementing image map is executed successfully
